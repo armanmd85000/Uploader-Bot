@@ -30,9 +30,9 @@ bot = Client("bot",
              api_id=add,
              api_hash='add')
 
-owner_id = [6530997270]
-auth_users = [6530997270]
-photo1 = 'https://envs.sh/PQ_.jpg'
+owner_id = [7552584508]
+auth_users = [7552584508]
+photo1 = 'https://files.catbox.moe/5c2szq.jpg'
 getstatusoutput(f"wget {photo1} -O 'photo.jpg'")
 photo = "photo.jpg"
 
