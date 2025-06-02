@@ -26,9 +26,9 @@ import tgcrypto
 import cloudscraper
 
 bot = Client("bot",
-             bot_token='add',
-             api_id=add,
-             api_hash='add')
+             bot_token='8134792230:AAEeRyv60o0Lt46FHPgvJvLvq8dx0Xo6GCM',
+             api_id='25570420',
+             api_hash='6591643fa39b5b9d0eb78cb24db17f69')
 
 owner_id = [7552584508]
 auth_users = [7552584508]
